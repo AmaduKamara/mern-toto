@@ -1,5 +1,5 @@
 const { Router } = require("express");
-const {getTodos} = require("../controllers/todos-controller")
+const {getTodos} = require("../controllers/todosController")
 
 const router = Router();
 
